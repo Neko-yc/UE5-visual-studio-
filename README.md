@@ -3,7 +3,7 @@ UE5在visual studio上运行的常见错误以及解决方法
 
 以下是正常运行的展示结果（正常编译和正常运行的视频），可以从visual studio编译运行UE5 project：
 
-https://github.com/yclzy/UE5-visual-studio-/issues/1
+视频连接： https://github.com/yclzy/UE5-visual-studio-/issues/1
 
 ------------------------------------------------------------------------------------------------------------------------------
 以下是编译中遇到的各个问题以及相应的解决方法
