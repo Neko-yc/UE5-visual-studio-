@@ -1,6 +1,11 @@
 # UE5-visual-studio-
 UE5在visual studio上运行的常见错误以及解决方法
 
+以下是正常运行的展示结果，可以从visual studio编译运行UE5 project：
+
+![](https://github.com/yclzy/UE5-visual-studio-/blob/main/images/success1.mp4)
+![](https://github.com/yclzy/UE5-visual-studio-/blob/main/images/success2.mp4)
+
 1.生成visual studio解决方案，在UE5-工具-生成visual解决方案中生成
 
 ![](https://github.com/yclzy/UE5-visual-studio-/blob/main/images/%E7%94%9F%E6%88%90visual%20studio%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88new.png)
@@ -42,4 +47,5 @@ UE5在visual studio上运行的常见错误以及解决方法
 
 ---------------------------------------------------------------------------------------------------------------------
 正常运行结果：visual studio运行调用UE5引擎界面，但是又与原本的UE5引擎不冲突
+
 ![](https://github.com/yclzy/UE5-visual-studio-/blob/main/images/%E6%AD%A3%E5%B8%B8%E5%90%AF%E5%8A%A8%E6%88%AA%E5%9B%BE.png)
