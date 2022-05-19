@@ -23,4 +23,23 @@ UE5在visual studio上运行的常见错误以及解决方法
   
 ![](https://github.com/yclzy/UE5-visual-studio-/blob/main/images/%E6%9C%AA%E5%8A%A0%E8%BD%BDshader%E6%8A%A5%E9%94%99.png)
   
+  第一种问题：没有在UE5中cook而没有产生shader：
+  记得要选择win10的cook
   
+![](https://github.com/yclzy/UE5-visual-studio-/blob/main/images/%E7%83%98%E7%84%99%E5%86%85%E5%AE%B9.png)
+
+  第二种问题：因为没有安装win10的SDK而不能cook而没有产生shader：
+  
+![](https://github.com/yclzy/UE5-visual-studio-/blob/main/images/%E5%AE%89%E8%A3%85win10%20SDK.png)
+
+  第三种问题：没有选择debug-editor模式下运行：
+  
+![](https://github.com/yclzy/UE5-visual-studio-/blob/main/images/%E9%80%89%E6%8B%A9debug%20editor.png)
+
+4.缺少.net的库错误：visual studio安装库：
+
+![](https://github.com/yclzy/UE5-visual-studio-/blob/main/images/%E2%80%98.net%E2%80%99%E6%8A%A5%E9%94%99.png)
+
+---------------------------------------------------------------------------------------------------------------------
+正常运行结果：visual studio运行调用UE5引擎界面，但是又与原本的UE5引擎不冲突
+![](https://github.com/yclzy/UE5-visual-studio-/blob/main/images/%E6%AD%A3%E5%B8%B8%E5%90%AF%E5%8A%A8%E6%88%AA%E5%9B%BE.png)
